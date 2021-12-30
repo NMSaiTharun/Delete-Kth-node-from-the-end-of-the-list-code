@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list Dotnet\bin\Debug\net6.0\Delete Kth node from the end of the list Dotnet.exe
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list Dotnet\bin\Debug\net6.0\Delete Kth node from the end of the list Dotnet.deps.json
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list Dotnet\bin\Debug\net6.0\Delete Kth node from the end of the list Dotnet.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list Dotnet\bin\Debug\net6.0\Delete Kth node from the end of the list Dotnet.dll
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list Dotnet\bin\Debug\net6.0\ref\Delete Kth node from the end of the list Dotnet.dll
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list Dotnet\bin\Debug\net6.0\Delete Kth node from the end of the list Dotnet.pdb
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list Dotnet\obj\Debug\net6.0\Delete Kth node from the end of the list Dotnet.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list Dotnet\obj\Debug\net6.0\Delete Kth node from the end of the list Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list Dotnet\obj\Debug\net6.0\Delete Kth node from the end of the list Dotnet.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list Dotnet\obj\Debug\net6.0\Delete Kth node from the end of the list Dotnet.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list Dotnet\obj\Debug\net6.0\Delete Kth node from the end of the list Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list Dotnet\obj\Debug\net6.0\Delete Kth node from the end of the list Dotnet.dll
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list Dotnet\obj\Debug\net6.0\ref\Delete Kth node from the end of the list Dotnet.dll
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list Dotnet\obj\Debug\net6.0\Delete Kth node from the end of the list Dotnet.pdb
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list Dotnet\obj\Debug\net6.0\Delete Kth node from the end of the list Dotnet.genruntimeconfig.cache
